@@ -87,14 +87,19 @@ ROM日志，QQ频道动态，QQ群内公告，**没有一处**提到**原作者�
 
 **而且我也不是先骂你的**
 
-gan ni li mao shi（不是我先说的哦）
-（聊天记录为证）
+gan ni li mao shi
+
+（不是我先说的哦）
+
+（[聊天记录](https://raw.githubusercontent.com/ROM-Enchanter-Tombstone/ROM-Enchanter-Tombstone/main/聊天截图.jpg)为证）
 
 我的朋友确实是作者之一
 
 （无论你怎么“狡辩”，他 （[@rkpsz](http://www.coolapk1s.com/u/21000263) ）至少是你手中那个**中文语言环境下，正常显示的设置APK**的作者，请不要用你那肮脏的词语侮辱他）
 
 ## 所有的东西，都在附件里，自行查阅，然后用你那打圆滑的手段，狠狠的把你的用户绕晕吧
+
+![png 聊天记录](https://raw.githubusercontent.com/ROM-Enchanter-Tombstone/ROM-Enchanter-Tombstone/main/聊天截图.jpg "聊天记录")
 
 # 一个**自愿捐赠**的官改包*作者*
 
