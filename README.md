@@ -98,9 +98,16 @@ gan ni li mao shi
 （无论你怎么“狡辩”，他 （[@rkpsz](http://www.coolapk1s.com/u/21000263) ）至少是你手中那个**中文语言环境下，正常显示的设置APK**的作者，请不要用你那肮脏的词语侮辱他）
 
 ## 所有的东西，都在附件里，自行查阅，然后用你那打圆滑的手段，狠狠的把你的用户绕晕吧
-
+# 聊天记录
 ![png 聊天记录](https://raw.githubusercontent.com/ROM-Enchanter-Tombstone/ROM-Enchanter-Tombstone/main/聊天截图.jpg "聊天记录")
+# 忽悠Admin
+![png "忽悠"](https://github.com/ROM-Enchanter-Tombstone/ROM-Enchanter-Tombstone/blob/main/Screenshot_2024-05-08-18-49-54-597_xyz.nextalone.nagram.png "忽悠")
+# ROM日志
+![png "ROM日志"](https://github.com/ROM-Enchanter-Tombstone/ROM-Enchanter-Tombstone/blob/main/Screenshot_2024-05-08-18-52-07-478_com.coolapk.market.png "ROM日志")
+# 迟来的声明作者
+**（虽然还是没有获得作者授权）**
+![png "迟来的声明作者（虽然是转载者）"](https://github.com/ROM-Enchanter-Tombstone/ROM-Enchanter-Tombstone/raw/main/Screenshot_2024-05-08-19-05-55-227_com.coolapk.market.png "迟来的声明作者（虽然还是没有获得作者授权）")
 
-# 一个**自愿捐赠**的官改包*作者*
+# 一个*自愿捐赠*的官改（作者）
 
 **红米Note12Turbo** **HyperOS** **RedmiNote11TPro+**
