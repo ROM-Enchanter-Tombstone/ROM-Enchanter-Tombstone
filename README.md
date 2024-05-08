@@ -107,7 +107,9 @@ gan ni li mao shi
 # 迟来的声明作者
 **（虽然还是没有获得作者授权）**
 ![png "迟来的声明作者（虽然是转载者）"](https://github.com/ROM-Enchanter-Tombstone/ROM-Enchanter-Tombstone/raw/main/Screenshot_2024-05-08-19-05-55-227_com.coolapk.market.png "迟来的声明作者（虽然还是没有获得作者授权）")
-
+# 吃个饭先
+**（开始说其他事了，不说设置APK了）**
+![PNG](https://github.com/ROM-Enchanter-Tombstone/ROM-Enchanter-Tombstone/raw/main/IMG_20240508_215834.jpg)
 # 一个*自愿捐赠*的官改（作者）
 
 **红米Note12Turbo** **HyperOS** **RedmiNote11TPro+**
